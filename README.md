@@ -13,6 +13,8 @@ A collection of artifacts that demonstrate what I have learned about Artificial 
 
 ### *Large Language Models Explained Briefly* (Sanderson 2024)
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/74794a8e-ce89-4fab-bea9-0fa1eedf9bf5" />
+
 **Link:** https://www.youtube.com/watch?v=LPZh9BOjkQs
 
 **Summary of the artefact**
@@ -29,6 +31,8 @@ I chose this video because it removed the "black box" feeling I had about tools 
 
 ### *Three Things to Help Improve Low-Resource Language AI, According to Stanford* (Albarino 2025)
 
+<img width="1393" height="691" alt="image" src="https://github.com/user-attachments/assets/6d49e986-6858-4b39-be03-c6464ad5a23f" />
+
 **Link:** https://slator.com/three-things-to-help-improve-low-resource-language-ai-according-to-stanford/
 
 **Summary of the artefact**
@@ -44,6 +48,8 @@ I chose this article because it speaks directly to the "digital divide" affectin
 ## Artefact 3: Scholarly Article
 
 ### *Natural Language Processing Applications for Low-Resource Languages* (Pakray, Gelbukh & Bandyopadhyay 2025)
+
+<img width="1334" height="365" alt="image" src="https://github.com/user-attachments/assets/7f8b0f72-08f9-4a42-afb5-990640e60c42" />
 
 **DOI:** https://doi.org/10.1017/nlp.2024.33
 
