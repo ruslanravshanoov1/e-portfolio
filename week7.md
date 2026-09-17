@@ -9,6 +9,7 @@
 ## Artefact 1: YouTube Video
 
 ### *Disney v. Midjourney: Who Owns AI Art?* (LegalEagle 2025)
+<img width="1074" height="623" alt="image" src="https://github.com/user-attachments/assets/d08df0b7-1715-4797-8b46-cd2a10fbca6a" />
 
 **Link:** https://www.youtube.com/watch?v=-AxM2-4so-Y
 
@@ -26,6 +27,8 @@ I chose this video because it translated a dense 110-page lawsuit into a clear e
 
 ### *In First-of-its-Kind Lawsuit, Hollywood Giants Sue AI Firm for Copyright Infringement* (Veltman 2025)
 
+<img width="1109" height="874" alt="image" src="https://github.com/user-attachments/assets/12f9ed53-164d-453e-9fea-0a7023a35072" />
+
 **Link:** https://www.npr.org/2025/06/12/nx-s1-5431684/ai-disney-universal-midjourney-copyright-infringement-lawsuit
 
 **Summary of the artefact**
@@ -41,6 +44,8 @@ I chose this article because it captures IP law in the middle of an unresolved, 
 ## Artefact 3: Scholarly Article
 
 ### *Copyright and AI Training Data — Transparency to the Rescue?* (Buick 2025)
+
+<img width="1493" height="362" alt="image" src="https://github.com/user-attachments/assets/f2caff05-8cc7-4363-96eb-ad2b4ccd1311" />
 
 **DOI:** https://doi.org/10.1093/jiplp/jpae102
 
@@ -58,10 +63,7 @@ This source gave me the legal detail behind the headlines, explaining exactly wh
 
 ### Copyright's Incentive Logic Meets Generative AI
 
-<!-- 📸 Paste your workshop screenshot/photo here, e.g.: -->
-<!-- ![Workshop attendance](./your-image-filename.png) -->
-
-
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/8c3dbfdb-1815-4f18-b180-7ae52f83854a" />
 
 During our IP workshop, we discussed the traditional justification for copyright: it exists to give creators a temporary monopoly so they have an incentive to keep producing original work. Applying that logic to generative AI raised an immediate tension in our group discussion — if an AI company can train a model on thousands of copyrighted characters without paying for them, then generate unlimited new images of those characters, the incentive structure copyright was built to protect starts to break down. Having already watched the LegalEagle video, I understood the legal mechanics of the Disney v. Midjourney case well enough to follow this discussion in real time. The NPR article and the Buick article showed me this is not a hypothetical problem being debated in a classroom; it is an active legal fight with billions of dollars and thousands of jobs riding on the outcome. This portfolio has made me think more carefully about how any AI tool I build, including an Uzbek-language NLP model, would need to consider what data it was trained on and who owns the rights to it.
 
