@@ -9,7 +9,7 @@
 ## Artefact 1: YouTube Video
 
 ### *Disney v. Midjourney: Who Owns AI Art?* (LegalEagle 2025)
-<img width="1074" height="623" alt="image" src="https://github.com/user-attachments/assets/d08df0b7-1715-4797-8b46-cd2a10fbca6a" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/b167c37d-c172-46e2-86b9-88d0500d7dc6" />
 
 **Link:** https://www.youtube.com/watch?v=-AxM2-4so-Y
 
